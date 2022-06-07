@@ -11,7 +11,7 @@ body {
 }
 
 .todo-list {
-  background-color: #0B2027;
+  background-color: #EA5C2B;
   font-family: "Space Mono", monospace;
   padding: 1rem;
   min-width: 400px;
@@ -69,7 +69,7 @@ body {
 }
 
 .todo-list {
-  background-color: #0B2027;
+  background-color: #EA5C2B;
   font-family: "Space Mono", monospace;
   padding: 1rem;
   min-width: 400px;
@@ -134,7 +134,7 @@ body {
 }
 
 .task.done .check-button {
-  background-color: #46494C;
+  background-color: #95CD41;
   color: #F6F1D1;
 }
 
@@ -148,7 +148,7 @@ body {
 }
 
 .task.done .check-icon {
-  background-color: #0B2027;
+  background-color: #FF7F3F;
 }
 
 .content {
@@ -157,6 +157,10 @@ body {
 
 .task.done .content {
   text-decoration: line-through;
+}
+
+.content-data {
+  color: #F6F1D1;
 }
 
 /*# sourceMappingURL=style.css.map */
